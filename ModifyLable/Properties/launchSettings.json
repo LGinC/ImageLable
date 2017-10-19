@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ModifyLable": {
+      "commandName": "Project",
+      "commandLineArgs": " out"
+    }
+  }
+}
